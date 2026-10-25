@@ -1,0 +1,13 @@
+{
+  "appId": "com.souqelyoum.app",
+  "appName": "سوق اليوم",
+  "webDir": "dist",
+  "backgroundColor": "#131921",
+  "server": {
+    "androidScheme": "https",
+    "url": "https://ضع-دومين-موقعك-هنا.com",
+    "cleartext": false
+  },
+  "ios": { "contentInset": "always" },
+  "android": { "allowMixedContent": false }
+}
